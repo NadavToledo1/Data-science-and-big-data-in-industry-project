@@ -26,6 +26,8 @@ This project presents an **AI-based solution** that leverages **dermoscopic imag
 
 ## 🗃️ Data
 
+The data: https://www.kaggle.com/competitions/isic-2024-challenge
+
 Provided by the [International Skin Imaging Collaboration (ISIC)](https://www.isic-archive.com/), the dataset includes:
 
 - **3D whole-body images**
