@@ -118,9 +118,13 @@ This project:
 ## 📂 Project Structure
 
 ├── data/ # Processed image & metadata
+
 ├── models/ # Model architectures
+
 ├── notebooks/ # EDA & model development notebooks
+
 ├── scripts/ # Training, preprocessing, evaluation scripts
+
 ├── README.md # Project documentation
 
 
