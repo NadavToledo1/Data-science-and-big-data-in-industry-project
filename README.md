@@ -117,15 +117,13 @@ This project:
 
 ## 📂 Project Structure
 
-├── data/ # Processed image & metadata
+├── EDA
 
-├── models/ # Model architectures
+├── ProjectNotebook
 
-├── notebooks/ # EDA & model development notebooks
+├── Presentation
 
-├── scripts/ # Training, preprocessing, evaluation scripts
-
-├── README.md # Project documentation
+├── README
 
 
 ---
